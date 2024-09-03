@@ -27,6 +27,7 @@ To qualify to become a Crimson Reclaimer, a character must fulfill the following
 The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (geography) (Int), Knowledge (local) (Int), Knowledge (religion) (Int), Perception (Wis), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), and Survival (Wis).
 
 **Skill Points at each Level**: 6 + Int modifier.
+
 **Hit Die**: d8.
 
 | **Level** | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** |                                  **Special**                                  |          **Spells Per Day**           |
