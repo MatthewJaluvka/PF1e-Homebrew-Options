@@ -1,19 +1,29 @@
 Flavor text.
 
 <hr>
+
 **REQUIREMENTS**
+
 <hr>
+
 To qualify to become a Crimson Reclaimer, a character must fulfill the following criteria.
 
 **Alignment**: Any non-evil.
+
 **Base Attack Bonus**: +3.
+
 **Skills**: Knowledge (religion) 5 ranks, Survival 5 ranks, Bluff 3 ranks, Perception 3 ranks, Stealth 3 ranks.
+
 **Spells**: Ability to cast 2nd-level divine spells.
+
 **Special**: A prospective Crimson Reclaimer must be a Knight of Lastwall and recite the Crimson Oath.
 
 <hr>
+
 **CLASS SKILLS**
+
 <hr>
+
 The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis), Intimidate (Cha), Knowledge (geography) (Int), Knowledge (local) (Int), Knowledge (religion) (Int), Perception (Wis), Sense Motive (Wis), Spellcraft (Int), Stealth (Dex), and Survival (Wis).
 
 **Skill Points at each Level**: 6 + Int modifier.
@@ -31,6 +41,7 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 |    8th    |          +6           |      +4       |      +3      |      +4       |                            Lay on hands 4d6, mercy                            | +1 level of divine spellcasting class |
 |    9th    |          +6           |      +5       |      +3      |      +5       |                               Focused training                                |                   —                   |
 |   10th    |          +7           |      +5       |      +3      |      +5       | Combat style feat, favored enemy (undead +4), lay on hands 5d6, undead slayer | +1 level of divine spellcasting class |
+
 **Weapon and Armor Proficiency**: Crimson Reclaimers are proficient in all simple and martial weapons, and light armor, medium armor, and shields (but not tower shields). If a Crimson Reclaimer worships a good deity with an exotic favored weapon, that weapon is treated as a martial weapon.
 
 **Favored Enemy (Ex)**: At 1st level, a Crimson Reclaimer gains a favored enemy bonus of +1 against undead, or if the Crimson Reclaimer already has favored enemy (undead) from another class, increases her existing bonus by +1. (This doesn’t increase existing favored enemy bonuses against any other creature types.) This otherwise functions as the ranger class ability. At 4th, 7th, and 10th levels, this bonus increases by 1.
