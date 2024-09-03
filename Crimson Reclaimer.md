@@ -1,4 +1,4 @@
-Flavor text.
+Flavor text TBD.
 
 <hr>
 
@@ -13,8 +13,6 @@ To qualify to become a Crimson Reclaimer, a character must fulfill the following
 **Base Attack Bonus**: +3.
 
 **Skills**: Knowledge (religion) 5 ranks, Survival 5 ranks, Bluff 3 ranks, Perception 3 ranks, Stealth 3 ranks.
-
-**Spells**: Ability to cast 2nd-level divine spells.
 
 **Special**: A prospective Crimson Reclaimer must be a Knight of Lastwall and recite the Crimson Oath.
 
@@ -36,18 +34,18 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 
 <hr>
 
-| **Level** | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** |                                  **Special**                                  |          **Spells Per Day**           |
-| :-------: | :-------------------: | :-----------: | :----------: | :-----------: | :---------------------------------------------------------------------------: | :-----------------------------------: |
-|    1st    |          +0           |      +1       |      +0      |      +1       |               Favored enemy (undead +1), survivor of desolation               |                   —                   |
-|    2nd    |          +1           |      +1       |      +1      |      +1       |                               Lay on hands 1d6                                | +1 level of divine spellcasting class |
-|    3rd    |          +2           |      +2       |      +1      |      +2       |                       Combat style feat, undead hunter                        |                   —                   |
-|    4th    |          +3           |      +2       |      +1      |      +2       |              Favored enemy (undead +2), lay on hands 2d6, mercy               | +1 level of divine spellcasting class |
-|    5th    |          +3           |      +3       |      +2      |      +3       |                  Blade of the Crimson Oath, focused training                  |                   —                   |
-|    6th    |          +4           |      +3       |      +2      |      +3       |                               Lay on hands 3d6                                | +1 level of divine spellcasting class |
-|    7th    |          +5           |      +4       |      +2      |      +4       |                 Combat style feat, favored enemy (undead +3)                  |                   —                   |
-|    8th    |          +6           |      +4       |      +3      |      +4       |                            Lay on hands 4d6, mercy                            | +1 level of divine spellcasting class |
-|    9th    |          +6           |      +5       |      +3      |      +5       |                               Focused training                                |                   —                   |
-|   10th    |          +7           |      +5       |      +3      |      +5       | Combat style feat, favored enemy (undead +4), lay on hands 5d6, undead slayer | +1 level of divine spellcasting class |
+| **Level** | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** |                                  **Special**                                  |
+| :-------: | :-------------------: | :-----------: | :----------: | :-----------: | :---------------------------------------------------------------------------: |
+|    1st    |          +0           |      +1       |      +0      |      +1       |               Favored enemy (undead +1), survivor of desolation               |
+|    2nd    |          +1           |      +1       |      +1      |      +1       |                               Lay on hands 1d6                                |
+|    3rd    |          +2           |      +2       |      +1      |      +2       |                       Combat style feat, undead hunter                        |
+|    4th    |          +3           |      +2       |      +1      |      +2       |              Favored enemy (undead +2), lay on hands 2d6, mercy               |
+|    5th    |          +3           |      +3       |      +2      |      +3       |                  Blade of the Crimson Oath, focused training                  |
+|    6th    |          +4           |      +3       |      +2      |      +3       |                               Lay on hands 3d6                                |
+|    7th    |          +5           |      +4       |      +2      |      +4       |                 Combat style feat, favored enemy (undead +3)                  |
+|    8th    |          +6           |      +4       |      +3      |      +4       |                            Lay on hands 4d6, mercy                            |
+|    9th    |          +6           |      +5       |      +3      |      +5       |                               Focused training                                |
+|   10th    |          +7           |      +5       |      +3      |      +5       | Combat style feat, favored enemy (undead +4), lay on hands 5d6, undead slayer |
 
 **Weapon and Armor Proficiency**: Crimson Reclaimers are proficient in all simple and martial weapons, and light armor, medium armor, and shields (but not tower shields). If a Crimson Reclaimer worships a good deity with an exotic favored weapon, that weapon is treated as a martial weapon.
 
