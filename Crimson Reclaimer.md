@@ -65,7 +65,7 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 
 **Mercy (Su)**: At 4th and 8th level, a Crimson Reclaimer can select one mercy, using her class level as her effective paladin level (stacking with levels in any class granting mercy).
 
-**Blade of the Crimson Oath (Su)**: At 5th level, a Crimson Reclaimer can, as a swift action, call upon the Crimson Oath. For 1 round, she gains a sacred bonus to attack rolls and AC equal to her Charisma modifier against an undead target she can see, and a sacred bonus to weapon damage rolls equal to her character level against that target. The Crimson Reclaimer can use this ability a number of times per day equal to her class level plus her Charisma modifier.
+**Blade of the Crimson Oath (Su)**: At 5th level, a Crimson Reclaimer can, as a swift action, call upon the Crimson Oath (equivalent to a spell's verbal component). For 1 round, she gains a sacred bonus to attack rolls and AC equal to her Charisma modifier against an undead target she can see, and a sacred bonus to weapon damage rolls equal to her character level against that target. The Crimson Reclaimer can use this ability a number of times per day equal to her class level plus her Charisma modifier.
 
 **Focused Training (Ex)**: At 5th and 9th level, a Crimson Reclaimer gains Skill Focus in any Crimson Reclaimer class skill.
 
