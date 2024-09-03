@@ -53,7 +53,7 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 
 **Survivor of Desolation (Ex)**: A Crimson Reclaimer gains a bonus to saving throws equal to half her level (minimum 1) against unnatural weather events or environmental hazards occurring in blighted regions.
 
-**Lay On Hands (Su)**: At 2nd level, a Crimson Reclaimer gains the ability to heal wounds by touch. This functions as the paladin class feature of the same name, treating the Crimson Reclaimer's class level as her effective paladin level. These levels stack with any other in any class granting lay on hands.
+**Lay On Hands (Su)**: At 2nd level, a Crimson Reclaimer gains the ability to heal wounds by touch. This functions as the paladin class feature of the same name, treating the Crimson Reclaimer's class level as her effective paladin level. These levels stack with any levels in any other class granting lay on hands.
 
 **Spells Per Day**: At 2nd level, and every 2 levels thereafter, a character gains new spells per day as if she had also gained a level in any one divine spellcasting class she belonged to before she added the prestige class. If a character had more than one divine spellcasting class before she became a Crimson Reclaimer, she must decide to which class she adds each qualifying level of Crimson Reclaimer for the purpose of determining spells per day.
 
