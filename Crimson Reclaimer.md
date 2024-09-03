@@ -30,6 +30,12 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 
 **Hit Die**: d8.
 
+<hr>
+
+**CLASS FEATURES**
+
+<hr>
+
 | **Level** | **Base Attack Bonus** | **Fort Save** | **Ref Save** | **Will Save** |                                  **Special**                                  |          **Spells Per Day**           |
 | :-------: | :-------------------: | :-----------: | :----------: | :-----------: | :---------------------------------------------------------------------------: | :-----------------------------------: |
 |    1st    |          +0           |      +1       |      +0      |      +1       |               Favored enemy (undead +1), survivor of desolation               |                   —                   |
