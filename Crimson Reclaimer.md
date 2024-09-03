@@ -55,8 +55,6 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 
 **Lay On Hands (Su)**: At 2nd level, a Crimson Reclaimer gains the ability to heal wounds by touch. This functions as the paladin class feature of the same name, treating the Crimson Reclaimer's class level as her effective paladin level. These levels stack with any levels in any other class granting lay on hands.
 
-**Spells Per Day**: At 2nd level, and every 2 levels thereafter, a character gains new spells per day as if she had also gained a level in any one divine spellcasting class she belonged to before she added the prestige class. If a character had more than one divine spellcasting class before she became a Crimson Reclaimer, she must decide to which class she adds each qualifying level of Crimson Reclaimer for the purpose of determining spells per day.
-
 **Combat Style Feat (Ex)**: At 3rd level, a Crimson Reclaimer selects a combat style available to rangers. She gains a combat style feat at 3rd, 7th, and 10th levels (using her Crimson Reclaimer level as her effective ranger level). If the Crimson Reclaimer has levels in ranger (or another class granting a combat style), she must pick the same combat style, and the levels stack for the purpose of determining the list of feats she can pick from.
 
 **Undead Hunter (Ex)**: Starting at 3rd level, a Crimson Reclaimer adds 1/3 her class level to Bluff, Disguise, Knowledge (religion), Perception, Sense Motive, Stealth, and Survival checks made about or against undead.
