@@ -14,7 +14,7 @@ To qualify to become a Crimson Reclaimer, a character must fulfill the following
 
 **Skills**: Knowledge (religion) 5 ranks, Survival 5 ranks, Bluff 3 ranks, Perception 3 ranks, Stealth 3 ranks.
 
-**Special**: A prospective Crimson Reclaimer must be a Knight of Lastwall and recite the Crimson Oath.
+**Special**: Must be a Knight of Lastwall and recite the Crimson Oath.
 
 <hr>
 
@@ -51,7 +51,7 @@ The Crimson Reclaimer's class skills are Bluff (Cha), Disguise (Cha), Heal (Wis)
 
 **Favored Enemy (Ex)**: At 1st level, a Crimson Reclaimer gains a favored enemy bonus of +1 against undead, or if the Crimson Reclaimer already has favored enemy (undead) from another class, increases her existing bonus by +1. (This doesn’t increase existing favored enemy bonuses against any other creature types.) This otherwise functions as the ranger class ability. At 4th, 7th, and 10th levels, this bonus increases by 1.
 
-**Survivor of Desolation (Ex)**: A Crimson Reclaimer gains a bonus to saving throws equal to half her level (minimum 1) against unnatural weather events or environmental hazards occurring in blighted regions.
+**Survivor of Desolation (Ex)**: A Crimson Reclaimer gains a bonus to saving throws equal to half her class level (minimum 1) against unnatural weather events or environmental hazards occurring in blighted regions.
 
 **Lay On Hands (Su)**: At 2nd level, a Crimson Reclaimer gains the ability to heal wounds by touch. This functions as the paladin class feature of the same name, treating the Crimson Reclaimer's class level as her effective paladin level. These levels stack with any levels in any other class granting lay on hands.
 
