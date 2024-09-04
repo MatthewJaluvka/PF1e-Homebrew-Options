@@ -50,6 +50,7 @@ The Shining Sentinel's class skills are Climb (Str), Craft (Int), Diplomacy (Cha
 |    8th    |          +8           |      +4       |      +3      |      +4       |                         Advanced armor training                         |
 |    9th    |          +9           |      +5       |      +3      |      +5       |                               Bonus feat                                |
 |   10th    |          +10          |      +5       |      +3      |      +5       | Armor training 3, aura of couragedivine healing (*cure serious wounds*) |
+
 **Weapon and Armor Proficiency**: Shining Sentinels are proficient in all simple and martial weapons, and all armor and shields (including tower shields). If a Shining Sentinel worships a good deity with an exotic favored weapon, that weapon is treated as a martial weapon.
 
 **Protector (Ex)**: At 1st level, a Shining Sentinel receives the Bodyguard feat, whether or not she meets the prerequisites. She gains a number of additional attacks of opportunity per round equal to her shield bonus to AC (including Shield Focus and Greater Shield Focus, and any other feat or feature that increases a shield's bonus to AC, but not its enhancement bonus), and when she uses Bodyguard, the AC bonus she provides increases by +1. This increases by an additional +1 at 5th and 9th levels.
