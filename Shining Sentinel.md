@@ -57,7 +57,7 @@ The Shining Sentinel's class skills are Climb (Str), Craft (Int), Diplomacy (Cha
 
 **Knight's Training (Ex)**: For the purposes of qualifying for feats, Shining Sentinel levels count as fighter levels.
 
-**Armor Training (Ex)**: At 2nd level, a Shining Sentinel gains armor training (as the fighter class feature). If they have no levels in fighter or another class that grants armor training, their effective fighter level for armor training is their class level + 1. Otherwise, their Shining Sentinel levels stack with levels in any class granting armor training.
+**Armor Training (Ex)**: At 2nd level, a Shining Sentinel gains armor training (as the fighter class feature). If she has no levels in fighter or another class that grants armor training, her effective fighter level for armor training is their class level + 1. Otherwise, her Shining Sentinel levels stack with levels in any class granting armor training.
 
 **Bonus Feats**: At 3rd level and every 2 levels thereafter, a Shining Sentinel gains a bonus feat from the following list: Armor Focus, Bashing Finish, Greater Shield Focus, Greater Shield Specialization, Improved Armor Focus, Improved Shield Bash, Improved Shield Focus, Missile Shield, Mobile Bulwark Style, Mobile Fortress, Mobile Stronghold, Mounted Shield, Ray Shield, Shield Master, Shield Slam, Shield Specialization, or any armor mastery or shield mastery feat.
 
